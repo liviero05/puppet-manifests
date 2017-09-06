@@ -12,5 +12,5 @@ class ntp {
 	require => package['ntp'],
 	}
 	  }
-
+#######
 
